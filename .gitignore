@@ -1,0 +1,6 @@
+*.class
+jdiff_report
+build
+bin
+target
+
